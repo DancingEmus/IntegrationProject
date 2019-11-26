@@ -16,4 +16,4 @@ Our circuits makes use of the Raspberry Pi's SPI interface, to recieve data from
 
 ![Block digram](https://github.com/pint5070/IntegrationProject/blob/master/Untitled%20Diagram.drawio-2.png)
 
-[Block diagram documentation](https://github.com/pint5070/IntegrationProject/blob/master/Block_Diagram.doc)
+[Block diagram documentation](https://github.com/pint5070/IntegrationProject/blob/master/Block%20_Diagram_Documentation.md)
